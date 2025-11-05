@@ -241,9 +241,9 @@ export function NeuroMailConsole() {
                 transition={{ duration: 0.5 }}
                 className="inline-flex items-center gap-2 mb-4"
               >
-                <Sparkles className="w-8 h-8 text-gray-300" />
+                <Mail className="w-8 h-8 text-gray-300" />
                 <h1 className="text-5xl text-transparent bg-clip-text bg-gradient-to-r from-gray-200 via-gray-300 to-gray-400">
-                  neuromail
+                  Neuromail
                 </h1>
               </motion.div>
               <p className="text-gray-500">AI-Powered Email Assistant</p>
